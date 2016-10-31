@@ -1,0 +1,12 @@
+# Site settings
+title: Sigurd Høgsbro
+twitter_username: shogsbro
+name: Sigurd Høgsbro
+
+# User specific content
+# Links that will appear in the navbar
+primarylinks:
+ - title: Personal blog
+   url: http://sigurd.hogsbro.org/
+ - title: IoT
+   url: http://iot.hogsbro.org/
